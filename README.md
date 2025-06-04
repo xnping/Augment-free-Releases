@@ -229,6 +229,53 @@ A: 程序仅用于清理指定的 Augment 数据，不收集任何个人信息�
 
 ---
 
+
+---
+
+## ☕ 请我喝咖啡
+---
+<div align="center">
+
+如果这个工具为您节省了时间，欢迎请我喝杯咖啡 ☕
+
+**您的每一份支持都是我继续开发的动力！** 💪
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/微信支付-07C160?style=for-the-badge&logo=wechat&logoColor=white"><br><br>
+<img src="https://raw.githubusercontent.com/xnping/Augment-free-Releases/main/wechat-pay.png" alt="微信支付" width="180">
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/支付宝-1677FF?style=for-the-badge&logo=alipay&logoColor=white"><br><br>
+<img src="https://raw.githubusercontent.com/xnping/Augment-free-Releases/main/alipay.png" alt="支付宝" width="180">
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🌟 支持者特权
+
+| 特权 | 描述 |
+|------|------|
+| 🚀 **优先支持** | 问题优先处理，快速响应 |
+| 🎯 **新功能预览** | 抢先体验最新功能 |
+| 💬 **专属群聊** | 加入VIP技术交流群 |
+| 🏆 **贡献者徽章** | 获得项目贡献者认证 |
+
+<br>
+
+**💝 感谢每一位支持者的慷慨！**
+
+</div>
+
+---
+
+
+
 <div align="center">
 
 **⭐ 如果这个工具对您有帮助，请给个 Star 支持一下！**
