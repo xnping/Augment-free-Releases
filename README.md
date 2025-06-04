@@ -190,7 +190,7 @@ A: 程序仅用于清理指定的 Augment 数据，不收集任何个人信息�
 
 
 ```
-![](https://github.com/xnping/Augment-free-Releases/blob/main/qq.png)
+![QQ群二维码](https://raw.githubusercontent.com/xnping/Augment-free-Releases/main/qq.png)
 QQ群号：1017212982
 扫描二维码或搜索群号加入
 ```
